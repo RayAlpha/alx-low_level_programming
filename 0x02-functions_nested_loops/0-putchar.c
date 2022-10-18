@@ -2,7 +2,6 @@
 
 /**
  * main - print _putchar
- * is written by Raymond
  * Return: 0
  */
 int main(void)
