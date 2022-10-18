@@ -5,7 +5,6 @@
  * is written by Raymond
  * Return: 0
  */
-
 int main(void)
 {
 	_putchar('_');
@@ -20,4 +19,3 @@ int main(void)
 	
 	return (0);
 }
-
